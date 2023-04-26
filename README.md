@@ -1,4 +1,4 @@
-## cocktails-app
+cocktails-app
 #you can containerize this app by following the instructions in the README file ...
 
 
@@ -7,11 +7,11 @@
 
   docker built -t <your-chosen-name> /your/path/to/directory
   
-# If you are already in the directory you can use this:
+# If you already are in the directory you can use this:
 
   docker built -t <your-chosen-name> .
   
-# When '.' at the end indicates that the path is the current directory.
+# Where '.' at the end indicates that the path is the current directory.
 # After running the following command you actually made an image from your cocktails application.
 # You can run it by creating a container like this and exposing one port to access the app through your browser:
 
