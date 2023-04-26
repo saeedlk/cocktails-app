@@ -5,7 +5,7 @@ You can containerize this app by following the instructions in the README file .
 Containerize the app
 I include a Dockerfile for this purpose. All you have to do is that you run this command:
 
-  docker built -t "<your-chosen-name>" /your/path/to/directory
+  docker built -t '<your-chosen-name>' /your/path/to/directory
   
 If you already are in the directory you can use this:
 
