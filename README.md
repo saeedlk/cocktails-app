@@ -1,5 +1,5 @@
-cocktails-app
-#you can containerize this app by following the instructions in the README file ...
+##cocktails-app
+#You can containerize this app by following the instructions in the README file ...
 
 
 ## Containerize the app
